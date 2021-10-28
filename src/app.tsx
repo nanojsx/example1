@@ -11,9 +11,7 @@ export class App extends Component {
           <div id="logo">LOGO</div>
           <Navbar />
         </header>
-
-        <Content />
-
+        <Content content={this.props.content} />
         <Footer />
       </div>
     )
