@@ -7,7 +7,7 @@
     "outDir": "dist",
 
     "jsx": "react-jsx",
-    "jsxImportSource": "nano-jsx",
+    "jsxImportSource": "nano-jsx/lib",
 
     "moduleResolution": "node",
     "strict": true,
