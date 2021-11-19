@@ -1,4 +1,4 @@
-import Nano, { FC } from 'nano-jsx'
+import { FC } from 'nano-jsx'
 
 export const Link: FC<{ to: string; children?: any }> = ({ to, children }) => {
   const handleClick = (e: Event) => {

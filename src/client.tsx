@@ -1,4 +1,4 @@
-import Nano, { render } from 'nano-jsx'
+import { render } from 'nano-jsx'
 import { Content, getPathName } from './content'
 import { Navbar } from './navbar'
 

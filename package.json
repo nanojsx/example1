@@ -13,7 +13,7 @@
   "license": "MIT",
   "dependencies": {
     "express": "^4.17.1",
-    "nano-jsx": "^0.0.20"
+    "nano-jsx": "^0.0.22"
   },
   "devDependencies": {
     "@types/express": "^4.17.13",

@@ -1,4 +1,4 @@
-import Nano, { Component } from 'nano-jsx'
+import { Component } from 'nano-jsx'
 import { Link } from './link'
 
 export class Navbar extends Component {

@@ -2,11 +2,14 @@
   "compilerOptions": {
     "target": "ES2015",
     "module": "commonjs",
-    "jsx": "react",
-    "jsxFactory": "Nano.h",
-    "moduleResolution": "node",
+
     "rootDir": "src",
     "outDir": "dist",
+
+    "jsx": "react-jsx",
+    "jsxImportSource": "nano-jsx",
+
+    "moduleResolution": "node",
     "strict": true,
     "esModuleInterop": true,
     "skipLibCheck": true,

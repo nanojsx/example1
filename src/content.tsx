@@ -1,4 +1,4 @@
-import Nano, { Component } from 'nano-jsx'
+import { Component } from 'nano-jsx'
 
 export const getPathName = (path: string) => {
   return path === '/' ? 'home' : path.replace('/', '')

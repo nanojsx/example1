@@ -1,4 +1,4 @@
-import Nano, { Component } from 'nano-jsx'
+import { Component } from 'nano-jsx'
 import { Navbar } from './navbar'
 import { Content } from './content'
 import { Footer } from './footer'

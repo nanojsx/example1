@@ -1,5 +1,5 @@
 import express from 'express'
-import Nano, { renderSSR } from 'nano-jsx'
+import { renderSSR } from 'nano-jsx'
 import { App } from './app'
 import { join } from 'path'
 import { getPathName } from './content'
